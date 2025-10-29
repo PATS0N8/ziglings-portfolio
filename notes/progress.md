@@ -48,5 +48,8 @@ Status: Completed
 ## 15. For Loops
 Used a for loop to iterate over an array and print reactions for each scene.
 Status: Completed
+## For with index / binary accumulation
+Used `for (bits, 0..)` with index, `@intCast` to u32, and `std.math.pow` to compute place values; result 13.
+Status: Completed
 
 
