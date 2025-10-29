@@ -132,3 +132,7 @@ Status: Completed
 Used num1_pointer.* to set num2 equal to num1’s value.
 Status: Completed
 
+## 40. Pointer const correctness
+Changed b to *const u8 because a is immutable.
+Status: Completed
+
