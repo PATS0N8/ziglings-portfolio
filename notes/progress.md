@@ -164,3 +164,7 @@ Status: Completed
 Completed zap logic and called heat_ray.zap(alien) in loop.
 Status: Completed
 
+## 48. Elephant struct methods
+Used e.getTail() inside visitElephants() loop to follow linked elephants.
+Status: Completed
+
