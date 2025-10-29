@@ -100,3 +100,7 @@ Status: Completed
 Added else clause returning '!' for unmatched characters.
 Status: Completed
 
+## 32. Switch 3
+Fixed missing closing brace and moved print outside switch.
+Status: Completed
+
