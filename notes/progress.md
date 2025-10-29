@@ -51,5 +51,8 @@ Status: Completed
 ## For with index / binary accumulation
 Used `for (bits, 0..)` with index, `@intCast` to u32, and `std.math.pow` to compute place values; result 13.
 Status: Completed
+## 17. Quiz: FizzBuzz
+Implemented a while loop with modulo conditions to print Fizz, Buzz, or the number as well as change function to pub fn
+Status: Completed
 
 
