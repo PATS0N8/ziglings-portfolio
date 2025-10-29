@@ -144,3 +144,7 @@ Status: Completed
 Assigned via pointer with x.* = 5 in makeFive().
 Status: Completed
 
+## 43. Struct pointers and optionals
+Passed &glorp into printCharacter to match *Character parameter.
+Status: Completed
+
