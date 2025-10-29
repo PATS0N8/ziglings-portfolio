@@ -136,3 +136,7 @@ Status: Completed
 Changed b to *const u8 because a is immutable.
 Status: Completed
 
+## 41. Mutable pointer reassign
+Used 'var p: *u8' so it can point to foo or bar and mutate through p.*.
+Status: Completed
+
