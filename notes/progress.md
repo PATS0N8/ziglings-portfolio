@@ -17,4 +17,10 @@ Status:  Completed
 ## 5. Arrays 2
 Used ++ to concatenate arrays and ** to repeat patterns.
 Status: Completed
+## 6. Strings 1
+Indexed a character from a string, used ** to repeat, and ++ to concatenate strings.
+Status: Completed
 
+## 7. Strings 2
+Practiced multi-line string syntax using \\ at the start of each line.
+Status: Completed
