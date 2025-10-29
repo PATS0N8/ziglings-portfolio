@@ -63,5 +63,8 @@ Status: Completed
 ## 20. Loops in Functions
 Replaced placeholder 'loop' with for and while, combining both in functional examples.
 Status: Completed
+## 21. Errors 1
+Added TooSmall to error set and matched on it in main.
+Status: Completed
 
 
