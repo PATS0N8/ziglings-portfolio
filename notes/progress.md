@@ -156,3 +156,7 @@ Status: Completed
 Used result orelse 42 to handle null optional from deepThought().
 Status: Completed
 
+## 46. Optional pointers and orelse
+Used e = e.tail orelse break to safely stop when null tail encountered.
+Status: Completed
+
