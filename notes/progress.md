@@ -160,3 +160,7 @@ Status: Completed
 Used e = e.tail orelse break to safely stop when null tail encountered.
 Status: Completed
 
+## 47. Methods and pointers (HeatRay)
+Completed zap logic and called heat_ray.zap(alien) in loop.
+Status: Completed
+
