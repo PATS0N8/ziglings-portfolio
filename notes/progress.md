@@ -27,4 +27,8 @@ Status: Completed
 ## 8. Quiz
 Reviewed variable mutability and array indexing to spell "Zig".
 Status: Completed
+## 9. If Statements
+Learned that conditions must be booleans and compared foo == 1.
+Status: Completed
+
 
