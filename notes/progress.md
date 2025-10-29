@@ -116,3 +116,7 @@ Status: Completed
 Added enum Ops { inc, dec, pow } and verified output sequence.
 Status: Completed
 
+## 36. Enum hex colors
+Added Color.blue = 0x0000ff and formatted output with {x:0>6} for all RGB values.
+Status: Completed
+
