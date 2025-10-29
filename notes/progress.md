@@ -60,5 +60,8 @@ Status: Completed
 ## 19. Functions with Parameters
 Defined a function twoToThe(my_number: u32) returning 2^my_number using std.math.pow.
 Status: Completed
+## 20. Loops in Functions
+Replaced placeholder 'loop' with for and while, combining both in functional examples.
+Status: Completed
 
 
