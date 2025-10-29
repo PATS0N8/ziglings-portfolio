@@ -36,5 +36,8 @@ Status: Completed
 ## 11. While Loops
 Used while (n < 1024) to loop and double n until it reached 1024.
 Status: Completed
+## 12. While Loops (Continue Expressions)
+Moved n *= 2 into a continue expression in the while loop.
+Status: Completed
 
 
