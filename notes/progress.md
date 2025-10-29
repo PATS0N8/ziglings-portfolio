@@ -120,3 +120,7 @@ Status: Completed
 Added Color.blue = 0x0000ff and formatted output with {x:0>6} for all RGB values.
 Status: Completed
 
+## 37. Structs and fields
+Added health: u8 to Character struct and initialized with 100.
+Status: Completed
+
