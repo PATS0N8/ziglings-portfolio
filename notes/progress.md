@@ -107,4 +107,8 @@ Status: Completed
 ## 33. Error unions with switch
 Added match for TooSmall printing '<4.'
 Status: Completed
+## 34. Error unions with try
+Changed main to !void and added try getNumber().
+Kept writer(&.{}) + interface.print for this Zig version.
+Status: Completed
 
