@@ -148,3 +148,7 @@ Status: Completed
 Passed &glorp into printCharacter to match *Character parameter.
 Status: Completed
 
+## 44. Self-referential structs
+Added Elephant B and linked tails A->B->C->A to form circular chain.
+Status: Completed
+
