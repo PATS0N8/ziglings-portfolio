@@ -104,3 +104,7 @@ Status: Completed
 Fixed missing closing brace and moved print outside switch.
 Status: Completed
 
+## 33. Error unions with switch
+Added match for TooSmall printing '<4.'
+Status: Completed
+
