@@ -168,3 +168,7 @@ Status: Completed
 Used e.getTail() inside visitElephants() loop to follow linked elephants.
 Status: Completed
 
+## 49. Elephant trunks
+Added getTrunk() and hasTrunk() methods to navigate backwards through elephants.
+Status: Completed
+
