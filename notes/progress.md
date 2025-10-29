@@ -77,3 +77,7 @@ Fixed fixTooSmall() using catch |err| to return 10 on TooSmall and propagate oth
 Status: Completed
 
 
+## 25. Errors 5
+Used try to propagate errors from detect() in addFive().
+Status: Completed
+
