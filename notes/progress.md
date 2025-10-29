@@ -54,5 +54,8 @@ Status: Completed
 ## 17. Quiz: FizzBuzz
 Implemented a while loop with modulo conditions to print Fizz, Buzz, or the number as well as change function to pub fn
 Status: Completed
+## 18. Functions
+Created a simple function `deepThought()` returning 42 and called it from main.
+Status: Completed
 
 
