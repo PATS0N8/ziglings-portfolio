@@ -57,5 +57,8 @@ Status: Completed
 ## 18. Functions
 Created a simple function `deepThought()` returning 42 and called it from main.
 Status: Completed
+## 19. Functions with Parameters
+Defined a function twoToThe(my_number: u32) returning 2^my_number using std.math.pow.
+Status: Completed
 
 
