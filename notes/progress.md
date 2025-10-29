@@ -128,3 +128,7 @@ Status: Completed
 Added Zump the Loud with role=bard, gold=10, health=100, experience=20.
 Status: Completed
 
+## 39. Pointers and dereferencing
+Used num1_pointer.* to set num2 equal to num1’s value.
+Status: Completed
+
