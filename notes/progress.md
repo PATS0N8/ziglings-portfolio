@@ -93,3 +93,7 @@ Status: Completed
 Used defer to print closing ") " after each animal.
 Status: Completed
 
+## 30. Switch 1
+Added 'else' branch to switch to print '?' for unmatched values.
+Status: Completed
+
