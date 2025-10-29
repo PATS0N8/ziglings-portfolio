@@ -14,3 +14,7 @@ Status:  Completed
 ## 4. Arrays
 Changed const to var for mutability, used zero-based index, and .len for length.
 Status:  Completed
+## 5. Arrays 2
+Used ++ to concatenate arrays and ** to repeat patterns.
+Status: Completed
+
