@@ -112,3 +112,7 @@ Changed main to !void and added try getNumber().
 Kept writer(&.{}) + interface.print for this Zig version.
 Status: Completed
 
+## 35. Enums and exhaustive switches
+Added enum Ops { inc, dec, pow } and verified output sequence.
+Status: Completed
+
