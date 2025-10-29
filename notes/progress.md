@@ -42,5 +42,11 @@ Status: Completed
 ## 13. While with Continue
 Used continue to skip numbers divisible by 3 or 5.
 Status: Completed
+## 14. While with Break
+Used break to stop an infinite while loop when n == 4.
+Status: Completed
+## 15. For Loops
+Used a for loop to iterate over an array and print reactions for each scene.
+Status: Completed
 
 
