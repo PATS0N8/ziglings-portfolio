@@ -33,5 +33,8 @@ Status: Completed
 ## 10. If Expressions
 Used an if...else expression to assign a value based on a condition.
 Status: Completed
+## 11. While Loops
+Used while (n < 1024) to loop and double n until it reached 1024.
+Status: Completed
 
 
