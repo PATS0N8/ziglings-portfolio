@@ -96,4 +96,7 @@ Status: Completed
 ## 30. Switch 1
 Added 'else' branch to switch to print '?' for unmatched values.
 Status: Completed
+## 31. Switch 2
+Added else clause returning '!' for unmatched characters.
+Status: Completed
 
