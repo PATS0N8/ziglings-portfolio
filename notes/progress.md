@@ -66,5 +66,8 @@ Status: Completed
 ## 21. Errors 1
 Added TooSmall to error set and matched on it in main.
 Status: Completed
+## 22. Errors 2
+Learned about error unions by combining MyNumberError with u8 using the ! operator.
+Status: Completed
 
 
