@@ -81,3 +81,7 @@ Status: Completed
 Used try to propagate errors from detect() in addFive().
 Status: Completed
 
+## 26. Errors 6
+Used try to propagate possible stdout.print() error in main().
+Status: Completed
+
