@@ -39,5 +39,8 @@ Status: Completed
 ## 12. While Loops (Continue Expressions)
 Moved n *= 2 into a continue expression in the while loop.
 Status: Completed
+## 13. While with Continue
+Used continue to skip numbers divisible by 3 or 5.
+Status: Completed
 
 
