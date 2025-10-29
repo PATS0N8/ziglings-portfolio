@@ -72,5 +72,8 @@ Status: Completed
 ## 23. Errors 3
 Used MyNumberError!u32 as a return type and handled errors with catch.
 Status: Completed
+## 24. Errors 4
+Fixed fixTooSmall() using catch |err| to return 10 on TooSmall and propagate others.
+Status: Completed
 
 
