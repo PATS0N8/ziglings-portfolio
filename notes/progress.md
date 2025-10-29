@@ -124,3 +124,7 @@ Status: Completed
 Added health: u8 to Character struct and initialized with 100.
 Status: Completed
 
+## 38. Struct arrays
+Added Zump the Loud with role=bard, gold=10, health=100, experience=20.
+Status: Completed
+
