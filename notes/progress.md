@@ -140,3 +140,7 @@ Status: Completed
 Used 'var p: *u8' so it can point to foo or bar and mutate through p.*.
 Status: Completed
 
+## 42. Pointer parameter
+Assigned via pointer with x.* = 5 in makeFive().
+Status: Completed
+
