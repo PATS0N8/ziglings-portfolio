@@ -152,3 +152,7 @@ Status: Completed
 Added Elephant B and linked tails A->B->C->A to form circular chain.
 Status: Completed
 
+## 45. Optionals and orelse
+Used result orelse 42 to handle null optional from deepThought().
+Status: Completed
+
