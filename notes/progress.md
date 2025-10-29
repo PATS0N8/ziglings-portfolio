@@ -24,3 +24,7 @@ Status: Completed
 ## 7. Strings 2
 Practiced multi-line string syntax using \\ at the start of each line.
 Status: Completed
+## 8. Quiz
+Reviewed variable mutability and array indexing to spell "Zig".
+Status: Completed
+
