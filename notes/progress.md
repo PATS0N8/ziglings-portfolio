@@ -85,3 +85,7 @@ Status: Completed
 Used try to propagate possible stdout.print() error in main().
 Status: Completed
 
+## 27. Defer 1
+Used defer to ensure 'Two' prints after 'One'.
+Status: Completed
+
