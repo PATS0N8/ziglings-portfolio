@@ -171,4 +171,9 @@ Status: Completed
 ## 49. Elephant trunks
 Added getTrunk() and hasTrunk() methods to navigate backwards through elephants.
 Status: Completed
+## 50. Pointers, optionals, and error-union strings
+Initialized pointers using undefined and null, changed printSecondLine() to return void,
+and used {!s} formatting for error union strings.
+Status: Completed
+
 
