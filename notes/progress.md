@@ -89,3 +89,7 @@ Status: Completed
 Used defer to ensure 'Two' prints after 'One'.
 Status: Completed
 
+## 28. Defer 2
+Used defer to print closing ") " after each animal.
+Status: Completed
+
