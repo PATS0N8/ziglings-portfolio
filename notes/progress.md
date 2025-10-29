@@ -69,5 +69,8 @@ Status: Completed
 ## 22. Errors 2
 Learned about error unions by combining MyNumberError with u8 using the ! operator.
 Status: Completed
+## 23. Errors 3
+Used MyNumberError!u32 as a return type and handled errors with catch.
+Status: Completed
 
 
